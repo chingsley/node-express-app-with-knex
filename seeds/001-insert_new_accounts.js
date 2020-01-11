@@ -3,7 +3,7 @@ function range(start, end) {
 }
 
 let seedAccounts = [];
-for (i of range(0, 99)) {
+for (i of range(0, 139)) {
   seedAccounts[i] = {
     "accountName": "ISA AYO OBI ",
     "accountNumber": `465432${i}`,
